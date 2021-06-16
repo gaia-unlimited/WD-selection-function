@@ -3,7 +3,7 @@
 Code and plot demos for the WD selection function paper, Rix et al. 2021  
 
 <!--- http://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg --->
-[![arxiv](http://img.shields.io/badge/astro.GA-arXiv%3Aaaaaaaa-B31B1B.svg)](https://arxiv.org/abs/aaaaaaa)
+[![arxiv](http://img.shields.io/badge/astro.GA-arXiv%3A2106.07653-B31B1B.svg)](https://arxiv.org/abs/2106.07653)
 
 Install the requirements with:
 
